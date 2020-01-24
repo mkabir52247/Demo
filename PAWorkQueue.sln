@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAWorkQueue", "PAWorkQueue\PAWorkQueue.csproj", "{9E77F7C2-CDAD-4DF4-A025-DD83EC48726C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReusableLibrary", "FrameworkLibrary\ReusableLibrary.csproj", "{AFBF8656-42DB-4BA3-8F97-F17E55E58F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E77F7C2-CDAD-4DF4-A025-DD83EC48726C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E77F7C2-CDAD-4DF4-A025-DD83EC48726C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E77F7C2-CDAD-4DF4-A025-DD83EC48726C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E77F7C2-CDAD-4DF4-A025-DD83EC48726C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBF8656-42DB-4BA3-8F97-F17E55E58F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBF8656-42DB-4BA3-8F97-F17E55E58F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBF8656-42DB-4BA3-8F97-F17E55E58F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBF8656-42DB-4BA3-8F97-F17E55E58F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC97225-1FE9-4853-8516-F8C8517DD27B}
+	EndGlobalSection
+EndGlobal
